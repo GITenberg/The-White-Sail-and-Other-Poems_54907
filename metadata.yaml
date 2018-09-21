@@ -1,0 +1,28 @@
+_repo: The-White-Sail-and-Other-Poems_54907
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Guiney, Louise Imogen
+    aliases:
+    - Guiney, L.I.
+    - Guiney, L. I.
+    birthdate: 1861
+    deathdate: 1920
+    gutenberg_agent_id: '39368'
+    url: http://www.gutenberg.org/2009/agents/39368
+    wikipedia: http://en.wikipedia.org/wiki/Louise_Imogen_Guiney
+description: ''
+gutenberg_issued: '2017-06-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54907'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'American poetry -- 19th century'
+- GITenberg
+title: The White Sail, and Other Poems
+url: http://www.gutenberg.org/ebooks/54907
